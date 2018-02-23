@@ -16,11 +16,17 @@
 .cardNasa:hover {
 	border: 2px dotted blue;
 }
-.imageNasa{
-	height: 100%;
-	max-height: 300px;
+.imageContent{
 	width: 100%;
-	max-width: 360px;
+	height: 73%;
+
+}
+.imageNasa{
+	border-radius: 10px 10px 0 0;
+	height: 100%;
+	max-height: 400px;
+	width: 100%;
+	max-width: 400px;
 	background-size: cover;
 	-webkit-box-shadow: 0 10px 14px -2px rgba(0,0,0,0.7);
 	box-shadow: 0 10px 14px -2px rgba(0,0,0,0.7);
@@ -36,7 +42,7 @@
 }
 .titleNasa {
 	width: 90%;
-	height: 60px;
+	
 	border: 1px solid #b0b5e2;
 	border-radius: 10px;
     margin-bottom: 5px;
