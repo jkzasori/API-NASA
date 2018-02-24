@@ -7,6 +7,7 @@ const NasaList = (props) => {
 			<NasaListItem 
 				key = {nasa.date}
 				nasa = {nasa}
+				handleOpenModal = {props.handleOpenModal}
 			/>
 			)
 	});
