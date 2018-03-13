@@ -8,7 +8,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/jkzasori/API-NASA.git
-> cd Frontend-condor
+> cd API-NASA
 > npm install
 > npm run build:dev
 Host: localhost
